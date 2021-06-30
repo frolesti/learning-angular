@@ -1,1 +1,1 @@
-# leraning-angular
+# learning-angular
